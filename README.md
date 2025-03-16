@@ -21,10 +21,10 @@ I'm currently expanding my expertise in computer graphics programming through We
 
 ## Connect With Me
 
-- <a href="https://ostefani.dev" target="_blank" rel="noopener noreferrer">My personal page</a>
-- <a href="mailto:me@ostefani.aleeas.com">Email</a>
-- <a href="https://x.com/o_stefanishyna" target="_blank" rel="noopener noreferrer">X Profile</a>
-- <a href="https://www.linkedin.com/in/ostefani/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
+- [My personal page](https://ostefani.dev)
+- [Email](mailto:me@ostefani.aleeas.com)
+- [X Profile](https://x.com/o_stefanishyna)
+- [LinkedIn Profile](https://www.linkedin.com/in/ostefani/)
 
 ---
 *"Elegant solutions to complex problems are not just about writing code; they're about crafting experiences that deliver value."*
