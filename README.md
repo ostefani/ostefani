@@ -24,7 +24,7 @@ I'm currently expanding my expertise in computer graphics programming through We
 - [My personal page](https://ostefani.dev)
 - [Email](mailto:me@ostefani.aleeas.com)
 - [X Profile](https://x.com/o_stefanishyna)
-- [LinkedIn Profile](https://www.linkedin.com/in/ostefani/)
+- [LinkedIn Profile](https://www.linkedin.com/in/ostefani/) - My account was removed today, Jul 24, 2025, by LinkedIn. I am pretty sure it's not a coincidence since it was one of the oldest accounts I had that proved that I exist and I work as a developer. I will not create another one, and if I manage to get the old account back, I will change this line. For now you can read my open letter to learn why someone want to silence me [Open Letter](https://ostefani.dev/seeking-justice)
 
 ---
 *"Elegant solutions to complex problems are not just about writing code; they're about crafting experiences that deliver value."*
