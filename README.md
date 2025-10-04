@@ -14,10 +14,11 @@ I specialize in developing modern web applications with a focus on:
 
 ## Featured Repository
 
-### WebGL Learning Repository
+### WebGL Article Series & Demos
 
-I'm currently expanding my expertise in computer graphics programming through WebGL and Three.js. Check my WebGL notes here:
-🔗 <a href="https://github.com/ostefani/learn-webgl" target="_blank" rel="noopener noreferrer">learn-webgl</a> - A repository documenting my exploration of WebGL, 3D rendering, and interactive graphics applications.
+I'm documenting my journey into computer graphics programming through a series of articles and interactive demos. The series spans from core WebGL concepts to advanced rendering techniques and simulations.
+
+🔗 <a href="https://github.com/ostefani/web-gl-series" target="_blank" rel="noopener noreferrer">web-gl-series</a> -  Interactive demos and code examples from my WebGL articles on Medium and my blog. Each demo links to its corresponding article for detailed explanations.
 
 ## Connect With Me
 
