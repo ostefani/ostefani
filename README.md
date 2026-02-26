@@ -23,6 +23,8 @@ I'm documenting my journey into computer graphics programming through a series o
 ## Connect With Me
 
 - [My personal page](https://ostefani.dev)
+- [Official mirror of my website](https://ostefani.vercel.app)
+  
 - [Email](mailto:me@ostefani.aleeas.com)
 - [X Profile](https://x.com/o_stefanishyna)
 - [LinkedIn Profile](https://www.linkedin.com/in/ostefani/)
