@@ -30,5 +30,3 @@ I'm documenting my journey into computer graphics programming through a series o
 - [LinkedIn Profile](https://www.linkedin.com/in/ostefani/)
 - [Peerlist Profile](https://peerlist.io/ostefani)
 
----
-*"Elegant solutions to complex problems are not just about writing code; they're about crafting experiences that deliver value."*
