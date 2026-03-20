@@ -24,6 +24,7 @@ I'm documenting my journey into computer graphics programming through a series o
 
 - [My personal page](https://ostefani.dev)
 - [Official mirror of my website](https://ostefani.vercel.app)
+- [Medium](https://olha-stefanishyna.medium.com)
   
 - [Email](mailto:me@ostefani.aleeas.com)
 - [X Profile](https://x.com/o_stefanishyna)
