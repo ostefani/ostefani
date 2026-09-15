@@ -15,11 +15,12 @@ I specialize in developing modern web applications with a focus on:
 ## Featured Repository
 **Key Rotation Note**: New signature keys effective Sep 16, 2026. Legacy keys are no longer active on this profile. Commits prior to this date may show an 'unverified' status due to key rotation.
 
-### [CodeOrbit](https://github.com/ostefani/code-orbit)
+### CodeOrbit
 A local, AI agent compatible with any OpenAI-compatible local LLM provider (llama.cpp, Ollama, LM Studio). Point it at any directory, give it a prompt, and it reads your codebase, plans changes, shows you a diff, and applies them.
 
 No cloud. No Docker. No API keys.
 
+Repo: [code-orbit](https://github.com/ostefani/code-orbit)
 Learn [more](https://ostefani.github.io/code-orbit/).
 
 ### WebGL Article Series & Demos
