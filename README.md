@@ -15,13 +15,16 @@ I specialize in developing modern web applications with a focus on:
 ## Featured Repository
 **Key Rotation Note**: New signature keys effective Sep 16, 2026. Legacy keys are no longer active on this profile. Commits prior to this date may show an 'unverified' status due to key rotation.
 
+### SubnetLens
+A fast, concurrent network scanner, built in Go.
+🔗 Repo: [subnetlens](https://github.com/ostefani/subnetlens).
+🔗 Pages: [SubneLens](https://ostefani.github.io/subnetlens/)
+
 ### CodeOrbit
-A local, AI agent compatible with any OpenAI-compatible local LLM provider (llama.cpp, Ollama, LM Studio). Point it at any directory, give it a prompt, and it reads your codebase, plans changes, shows you a diff, and applies them.
+A local, AI agent compatible with any OpenAI-compatible local LLM provider.
 
-No cloud. No Docker. No API keys.
-
-Repo: [code-orbit](https://github.com/ostefani/code-orbit)
-Learn [more](https://ostefani.github.io/code-orbit/).
+🔗 Repo: [code-orbit](https://github.com/ostefani/code-orbit)
+🔗 Pages [CodeOrbit](https://ostefani.github.io/code-orbit/).
 
 ### WebGL Article Series & Demos
 
