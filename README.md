@@ -11,9 +11,9 @@ I specialize in developing modern web applications with a focus on:
 - **Database Solutions**: MongoDB, PostgreSQL
 - **Infrastructure & DevOps**: Docker, Kubernetes, Linux
 - **Interactive Graphics**: WebGL, Three.js
-- 
+  
 ## Featured Repository
-
+**Key Rotation Note**: New signature keys effective Sep 15, 2026. Legacy keys are no longer active on this profile. Commits prior to this date may show an 'unverified' status due to key rotation.
 ### WebGL Article Series & Demos
 
 I'm documenting my journey into computer graphics programming through a series of articles and interactive demos. The series spans from core WebGL concepts to advanced rendering techniques and simulations.
@@ -30,5 +30,3 @@ I'm documenting my journey into computer graphics programming through a series o
 - [X Profile](https://x.com/o_stefanishyna)
 - [LinkedIn Profile](https://www.linkedin.com/in/ostefani/)
 - [Peerlist Profile](https://peerlist.io/ostefani)
-
-**Key Rotation Note**: New signature keys effective Sep 15, 2026. Legacy keys are no longer active on this profile. Commits prior to this date may show an 'unverified' status due to key rotation.
