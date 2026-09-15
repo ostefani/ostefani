@@ -36,8 +36,6 @@ Interactive demos and code examples from my WebGL articles on Medium and my blog
 
 🔗 Repo: [web-gl-series](https://github.com/ostefani/web-gl-series)
 
-🔗 Medium: [WebGL2 Series](https://olha-stefanishyna.medium.com/getting-started-with-webgl-2-conceptual-foundation-c210dd7e5154)
-
 ## Connect With Me
 
 - [My personal page](https://ostefani.dev)
