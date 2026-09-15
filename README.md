@@ -17,14 +17,16 @@ I specialize in developing modern web applications with a focus on:
 
 ### SubnetLens
 A fast, concurrent network scanner, built in Go.
-🔗 Repo: [subnetlens](https://github.com/ostefani/subnetlens).
+🔗 Repo: [subnetlens](https://github.com/ostefani/subnetlens)
+
 🔗 Pages: [SubneLens](https://ostefani.github.io/subnetlens/)
 
 ### CodeOrbit
 A local, AI agent compatible with any OpenAI-compatible local LLM provider.
 
 🔗 Repo: [code-orbit](https://github.com/ostefani/code-orbit)
-🔗 Pages [CodeOrbit](https://ostefani.github.io/code-orbit/).
+
+🔗 Pages [CodeOrbit](https://ostefani.github.io/code-orbit/)
 
 ### WebGL Article Series & Demos
 
