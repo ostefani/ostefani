@@ -31,8 +31,11 @@ A local, AI agent compatible with any OpenAI-compatible local LLM provider.
 ### WebGL Article Series & Demos
 
 I'm documenting my journey into computer graphics programming through a series of articles and interactive demos. The series spans from core WebGL concepts to advanced rendering techniques and simulations.
+Interactive demos and code examples from my WebGL articles on Medium and my blog. Each demo links to its corresponding article for detailed explanations.
 
-🔗 <a href="https://github.com/ostefani/web-gl-series" target="_blank" rel="noopener noreferrer">web-gl-series</a> -  Interactive demos and code examples from my WebGL articles on Medium and my blog. Each demo links to its corresponding article for detailed explanations.
+🔗 Repo: [web-gl-series](https://github.com/ostefani/web-gl-series)
+
+🔗 Medium: [WebGL2 Series](https://olha-stefanishyna.medium.com/getting-started-with-webgl-2-conceptual-foundation-c210dd7e5154)
 
 ## Connect With Me
 
