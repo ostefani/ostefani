@@ -22,12 +22,12 @@ A fast, concurrent network scanner, built in Go.
 
 🔗 Pages: [SubneLens](https://ostefani.github.io/subnetlens/)
 
-### CodeOrbit
+### WePairCode
 A local, AI agent compatible with any OpenAI-compatible local LLM provider.
 
-🔗 Repo: [code-orbit](https://github.com/ostefani/code-orbit)
+🔗 Repo: [wepaircode](https://github.com/ostefani/wepaircode)
 
-🔗 Pages [CodeOrbit](https://ostefani.github.io/code-orbit/)
+🔗 Pages [WePairCode](https://ostefani.github.io/wepaircode/)
 
 ### WebGL Article Series & Demos
 
