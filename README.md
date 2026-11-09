@@ -5,7 +5,7 @@ JavaScript-focused engineer specializing in web application development with an 
 ## Expertise
 
 I specialize in developing modern web applications with a focus on:
-- **Frontend Development**: React, Next.js, JavaScript (ES6+)
+- **Frontend Development**: Svelte, React, Next.js, JavaScript (ES6+)
 - **Backend Development**: Node.js, Express
 - **API Development**: RESTful APIs
 - **Database Solutions**: MongoDB, PostgreSQL
@@ -22,12 +22,14 @@ A fast, concurrent network scanner, built in Go.
 
 🔗 Pages: [SubneLens](https://ostefani.github.io/subnetlens/)
 
-### WePairCode
-A local, AI agent compatible with any OpenAI-compatible local LLM provider.
+### WatcherBridge
+An open-source bridge that receives network watch events via webhooks and turns them into short, prioritized briefings using an AI model.
+Developed and tested with Muse Spark, but can use other models too.
+Originally built during the Meta Global AI Developer Hackathon 2026 and since continued as an open-source project.
 
-🔗 Repo: [wepaircode](https://github.com/ostefani/wepaircode)
+🔗 Repo: [watcherbridge](https://github.com/ostefani/watcherbridge)
 
-🔗 Pages [WePairCode](https://ostefani.github.io/wepaircode/)
+🔗 Pages [WatcherBridge](https://ostefani.github.io/watcherbridge/)
 
 ### WebGL Article Series & Demos
 
@@ -43,6 +45,7 @@ Interactive demos and code examples from my WebGL articles on Medium and my blog
 - [Medium](https://olha-stefanishyna.medium.com)
   
 - [Email](mailto:me@ostefani.aleeas.com)
+- [Threads](https://www.threads.com/@o_stefanishyna)
 - [X Profile](https://x.com/o_stefanishyna)
 - [LinkedIn Profile](https://www.linkedin.com/in/ostefani/)
 - [Peerlist Profile](https://peerlist.io/ostefani)
