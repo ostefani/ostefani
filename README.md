@@ -25,7 +25,6 @@ A fast, concurrent network scanner, built in Go.
 ### WatcherBridge
 An open-source bridge that receives network watch events via webhooks and turns them into short, prioritized briefings using an AI model.
 Developed and tested with Muse Spark, but can use other models too.
-Originally built during the Meta Global AI Developer Hackathon 2026 and since continued as an open-source project.
 
 🔗 Repo: [watcherbridge](https://github.com/ostefani/watcherbridge)
 
